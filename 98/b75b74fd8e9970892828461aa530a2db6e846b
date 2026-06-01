@@ -1,0 +1,23 @@
+src/brpc/ssl_options.cpp
+  h_56dff964c444fc 30
+src/brpc/details/ssl_helper.cpp
+  h_56dff964c444fc 89-90,448-453,596
+src/brpc/details/ssl_helper.h
+  h_56dff964c444fc 56
+src/brpc/ssl_options.h
+  h_56dff964c444fc 82-83
+test/brpc_ssl_unittest.cpp
+  h_56dff964c444fc 38,501-564
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "98b75b74fd8e9970892828461aa530a2db6e846b",
+  "prompts": {},
+  "logical_commit_id": "98b75b74fd8e9970892828461aa530a2db6e846b",
+  "humans": {
+    "h_56dff964c444fc": {
+      "author": "lairongzeng <lairongzeng@bigo.sg>"
+    }
+  }
+}
